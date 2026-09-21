@@ -9,6 +9,8 @@ F# |> I <3
 
 [F# compiler](https://github.com/dotnet/fsharp) - The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio
 
+[ReSharper.FSharp](https://github.com/JetBrains/resharper-fsharp) - F# language support in JetBrains Rider
+
 [Cesium compiler](https://github.com/ForNeVeR/Cesium) - C compiler for the CLI platform
 
 [O21 game](https://github.com/ForNeVeR/O21) - FOSS remake of U95, an old submarine arcade game from 1995.
